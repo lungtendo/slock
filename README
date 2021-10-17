@@ -22,3 +22,8 @@ Afterwards enter the following command to build and install slock
 Running slock
 -------------
 Simply invoke the 'slock' command. To get out of it, enter your password.
+
+Note
+-----
+This repo contains slock with dwm logo patch applied manually on top of dpms patch.
+dwm logo has been modified to bspwm logo, becuase that is what I use.
